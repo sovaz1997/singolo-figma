@@ -1,4 +1,4 @@
-# singolo-figma
+# Singolo (Figma version)
 This is Singolo mockup made in Figma
 
 ## Advantages
