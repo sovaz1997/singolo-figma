@@ -13,6 +13,6 @@ All necessary images are exported in the required formats:
 
 ![Figma](./readme-img/2.png)
 
-## Full image
+## It looks like this...
 ![Singolo](./Singolo.jpg)
 
