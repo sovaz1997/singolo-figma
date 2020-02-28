@@ -9,6 +9,12 @@ All necessary images are exported in the required formats:
 
 ![Export](./readme-img/1.png)
 
+### Color styles
+
+Here the main colors have their own name:
+
+![Colors](./readme-img/3.png)
+
 ### Rulers, grids and other Figma benefits
 
 Due to the Figma convenience, it turned out to make the layout very accurate:
