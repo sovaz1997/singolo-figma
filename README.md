@@ -9,9 +9,9 @@ All necessary images are exported in the required formats:
 
 ![Export](./readme-img/1.png)
 
-### Color styles
+### Color and text styles
 
-Here the main colors have their own name:
+Here the main colors and text styles have their own name:
 
 ![Colors](./readme-img/3.png)
 
